@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!--
+    Sitemap for Celestial Universe
+    Update the <loc> base URL if you are hosting the site under a custom domain.
+  -->
+
+  <!-- Root (homepage) -->
+  <url>
+    <loc>https://celestialuniverse.github.io/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Main pages -->
+  <url>
+    <loc>https://celestialuniverse.github.io/pages/Characters.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://celestialuniverse.github.io/pages/CharacterDetail.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://celestialuniverse.github.io/pages/News.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://celestialuniverse.github.io/pages/Musics.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://celestialuniverse.github.io/pages/Code.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://celestialuniverse.github.io/pages/Lore.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://celestialuniverse.github.io/pages/Contact.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://celestialuniverse.github.io/pages/About.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <!-- Character pages -->
+  <url>
+    <loc>https://celestialuniverse.github.io/pages/characters/CelesteAiMaerah.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://celestialuniverse.github.io/pages/characters/EmaxulateAmatAi.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://celestialuniverse.github.io/pages/characters/AetherEternael.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+</urlset>

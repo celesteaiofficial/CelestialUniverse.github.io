@@ -1,0 +1,7 @@
+# robots.txt for Celestial Universe
+# Allow all crawlers and point them to the sitemap.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://celestialuniverse.github.io/sitemap.xml
